@@ -13,9 +13,8 @@
 		// Configure properties specific to VS Code.
 		"vscode": {
 			"settings": {},
-			"extensions": [
-				"streetsidesoftware.code-spell-checker",
-				"ms-dotnettools.csdevkit"
+			"extensions": [				
+				"https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-dotnettools/vsextensions/csdevkit/latest/vspackage"
 			]
 		}
 	},
